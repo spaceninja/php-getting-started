@@ -1,5 +1,4 @@
 <?php
-require('../vendor/autoload.php');
 /**
  * proxy for Brightcove RESTful APIs
  * gets an access token, makes the request, and returns the response
